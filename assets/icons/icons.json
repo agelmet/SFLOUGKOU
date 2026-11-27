@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/evertrust-logo-icon.svg"
+ },
+ "source_md5": "47f0518e0bad25a2faaaea039b4368ae",
+ "version": "3afed9aa",
+ "tile": "#F7F4EF",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "6ed90889434ed3c110ab32d2fab0aca1"
+ ],
+ "made": "2026-11-27"
+}
